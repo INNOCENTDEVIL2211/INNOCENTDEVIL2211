@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Earnings</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        .earnings {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Online Earnings</h1>
+    <p>Explore various ways to earn money online!</p>
+    
+    <div class="earnings">
+        <h2>Freelancing</h2>
+        <p>Offer your skills and services to clients around the world through freelancing platforms like Upwork, Freelancer, and Fiverr.</p>
+    </div>
+    
+    <div class="earnings">
+        <h2>Affiliate Marketing</h2>
+        <p>Promote products or services of other companies and earn a commission for every sale made through your referral links.</p>
+    </div>
+    
+    <div class="earnings">
+        <h2>Online Courses</h2>
+        <p>Create and sell online courses on platforms like Udemy, Coursera, or Teachable based on your expertise.</p>
+    </div>
+    
+    <div class="earnings">
+        <h2>Blogging</h2>
+        <p>Start a blog and monetize it through advertising, sponsored content, affiliate marketing, or selling digital products.</p>
+    </div>
+    
+</body>
+</html>
